@@ -39,6 +39,7 @@ body {
     margin-bottom: 30px;
     padding: 5px;
     border: 2px dashed black;
+    length:
 }
 
 /* This stylizes your "Poster X of Y" text */
@@ -80,6 +81,7 @@ body {
     position: absolute;
     top: 50px;
     right: 25px;
+    border-radius: 180%;
 }
 
 /* This contains your like and dislike buttons */
